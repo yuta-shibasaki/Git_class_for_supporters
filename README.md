@@ -1,4 +1,4 @@
-# Git_class_for_supporters
+# mainブランチで変更
 次のステップへ！Gitの発展コマンド＆GitHub活用講座　用
 
 いえあ
